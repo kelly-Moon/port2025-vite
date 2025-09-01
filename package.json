@@ -1,0 +1,21 @@
+{
+  "name": "port2025-vite",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.1.2"
+  },
+  "dependencies": {
+    "@studio-freight/lenis": "^1.0.42",
+    "gsa": "^0.0.0",
+    "gsap": "^3.13.0",
+    "install": "^0.13.0",
+    "npm": "^11.5.2"
+  }
+}
