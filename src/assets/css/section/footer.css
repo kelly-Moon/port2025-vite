@@ -39,7 +39,7 @@
   padding-top: 20px;
 }
 .footer__info .right {
-  right: 50%;
+  width: 50%;
 }
 .footer__info .right h3 {
   border-top: 2px solid var(--black);
