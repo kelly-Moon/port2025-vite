@@ -115,7 +115,6 @@
     font-size: 30px;
     background-color: var(--mainBg-color);
     z-index: 1000;
-    background-color: var(--mainBg-color);
   }
   .site__item.s1 {
     top: 140px;
